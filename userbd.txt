@@ -1,0 +1,4 @@
+Foi criado o banco no mysql
+
+user: java
+pass: java
